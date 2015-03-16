@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathParser", "MathParser\MathParser.csproj", "{A3418022-9FC5-4126-B470-F5BB71F8A827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlotTools", "PlotTools\PlotTools.csproj", "{BAAC502B-D386-4943-ACE3-028AA418BD55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3418022-9FC5-4126-B470-F5BB71F8A827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3418022-9FC5-4126-B470-F5BB71F8A827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3418022-9FC5-4126-B470-F5BB71F8A827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3418022-9FC5-4126-B470-F5BB71F8A827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAC502B-D386-4943-ACE3-028AA418BD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAC502B-D386-4943-ACE3-028AA418BD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAC502B-D386-4943-ACE3-028AA418BD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAC502B-D386-4943-ACE3-028AA418BD55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
